@@ -1,5 +1,14 @@
 # A self-taught Computer Science and Data Science curriculum
+## Content
+### Objectives
+### 1.CS-Maths
+### 2. CS-Introduction
+### 3. CS-Foundations
+### 4. CS-Cores
+### 5. CS-Advanced
+### 6. CS-Tools
 
+-----------------------------------------------------------------------------------------------------------------------
 ## Objectives: 
 This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/alan-nguyen) based on MIT and Stanford curriculums. After completing this curriculum, start applying for jobs, doing contract work, start your own data science consulting group, or just keep on learning. Remember to believe in your ability to learn. You can learn computer science and data science, the important thing is be focus, practice deep work and you will master the concepts, programming skills and data science techniques. Keep learning. **Life is a journey or learning.** 
 
