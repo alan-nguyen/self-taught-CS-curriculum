@@ -26,9 +26,9 @@ This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/a
 - [ ] [6.01 Introduction to EECS vis Robotics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) - OCW
 
 ## 3. CS-Foundations
-- [ ] 6.006 Introduction to Algorithms - OCW - _Ongoing_
-- [ ] 6.004 Computation Structures - OCW or Edx
-- [ ] 6.005 Software
+- [ ] [6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - OCW - _Ongoing_
+- [ ] [6.004 Computation Structures](https://courses.edx.org/courses/course-v1:MITx+6.004.1x_3+3T2016/course/) - OCW or Edx
+- [ ] [6.005 Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/) - OCW
 
 ## 4. CS-Cores
 - [ ] 6.009 Fundamentals of **Programming** - OCW
