@@ -49,8 +49,8 @@ or - [ ] 6.036 Introduction to **Machine learning** - Coursera
 - [ ] Mining massive data - Lagunita
 
 ## 6. CS-Tools
-- [ ] Python - DataCamp
-- [ ] SQL - DataCamp
-- [ ] R - DataCamp
-- [ ] JavaScript - freecodecamp
-- [ ] Java - Codecademy
+- [ ] [Python - DataCamp](https://www.datacamp.com/home)
+- [ ] [SQL - DataCamp](https://www.datacamp.com/home)
+- [ ] [R - DataCamp](https://www.datacamp.com/home)
+- [ ] [JavaScript - freecodecamp](https://www.freecodecamp.org/)
+- [ ] [Java - Codecademy](https://www.codecademy.com/learn/learn-java)
