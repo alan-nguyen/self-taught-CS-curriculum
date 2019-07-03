@@ -31,16 +31,18 @@ This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/a
 - [ ] [6.005 Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/) - OCW
 
 ## 4. CS-Cores
-- [ ] 6.009 Fundamentals of **Programming** - OCW
-- [ ] 6.031 Elements of **Software Construction**
-- [ ] 6.033 **Computer Systems** Engineering
+- [ ] [6.009 Fundamentals of Programming](https://www.edx.org/course/software-construction-java-mitx-6-005-1x
+
+) - Edx
+- [ ] 6.031 Elements of Software Construction
+- [ ] [6.033 Computer Systems Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/) - OCW
 - [ ] 6.034 Artificial Interlligence 
-or - [ ] 6.036 Introduction to **Machine learning** - Coursera 
-- [ ] 6.046 Design and Analysis of **Algorithms I** - Lagunita
-- [ ] 6.046 Design and Analysis of **Algorithms II** - Lagunita
+or - [ ] [6.036 Introduction to Machine learning](https://www.coursera.org/learn/machine-learning) - Coursera 
+- [ ] [6.046 Design and Analysis of Algorithms I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) - Lagunita
+- [ ] [6.046 Design and Analysis of Algorithms II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) - Lagunita
 
 **Optional**
-- [ ] 6.045 Automata, Computability, and Complexity - Lagunita
+- [ ] [6.045 Automata, Computability, and Complexity](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) - Lagunita
 
 ## 5. CS-Advanced
 - [x] Deep learning specialization - Coursera (June-2019)
