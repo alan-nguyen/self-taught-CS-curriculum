@@ -1,4 +1,4 @@
-## A self-taught Computer Science and Data Science curriculum
+## A self-taught B.SC in Computer Science, Economics, and Data Science curriculum
 ### Content
 #### Objectives
 #### 1. CS-Maths
@@ -7,6 +7,9 @@
 #### 4. CS-Cores
 #### 5. CS-Advanced
 #### 6. CS-Tools
+#### 7. Economics
+
+
 
 -----------------------------------------------------------------------------------------------------------------------
 ### Objectives: 
@@ -54,3 +57,32 @@ This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/a
 - [ ] [R - DataCamp](https://www.datacamp.com/home)
 - [ ] [JavaScript - freecodecamp](https://www.freecodecamp.org/)
 - [ ] [Java - Codecademy](https://www.codecademy.com/learn/learn-java)
+
+## 7. Economics
+- [ ] 14.01 Principles of Microeconomics
+- [ ] Principles of Economics - Lagunita - _Ongoing_
+- [ ] Econometric Data Science 
+- [ ] Elective Subjects 
+
+**Economics Electives**
+Select **three** of the following, including _at least one subject from each group_:
+
+_Data Science_
+- 14.20 Industrial Organization and Competitive Strategy
+- 14.27 Economics and E-Commerce
+- 14.36 Advanced Econometrics
+- 14.41 Public Finance and Public Policy
+- 14.64 Labor Economics and Public Policy
+- 14.74 Foundations of Development Policy
+- 14.75 Political Economy and Economic Development
+- 15.780 Stochastic Models in Business Analytics
+
+_Theory_
+- 14.04 Intermediate Microeconomic Theory
+- 14.12 Economic Applications of Game Theory
+- 14.13 Psychology and Economics
+- 14.15[J] Networks
+- 14.16 Strategy and Information
+- 14.19 Market Design
+- 14.26 Economics of Incentives: Theory and Applications
+- 14.54 International Trade
