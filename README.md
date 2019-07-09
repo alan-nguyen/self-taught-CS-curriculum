@@ -59,12 +59,13 @@ This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/a
 - [ ] [Java - Codecademy](https://www.codecademy.com/learn/learn-java)
 
 ## 7. Economics
-- [ ] 14.01 Principles of Microeconomics
-- [ ] Principles of Economics - Lagunita - _Ongoing_
-- [ ] Econometric Data Science 
+- [ ] [14.01 Principles of Microeconomics](https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/) - OCW
+- [ ] [Principles of Economics](https://lagunita.stanford.edu/courses/course-v1:HumanitiesSciences+Econ1V+Summer2019/course/) - Lagunita - _Ongoing_
+- [ ] [Econometric Data Science] (https://ocw.mit.edu/courses/economics/14-32-econometrics-spring-2007/) - OCW
 - [ ] Elective Subjects 
 
 **Economics Electives**
+
 Select **three** of the following, including _at least one subject from each group_:
 
 _Data Science_
