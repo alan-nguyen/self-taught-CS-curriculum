@@ -23,7 +23,7 @@ This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/a
 - [ ] [Introduction to Probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm) - OCW - _Ongoing_
 
 ## 2. CS-Introduction
-- [x] [Computer Science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/course/) - Lagunita - Free Certificate
+- [x] [Computer Science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/course/) - Lagunita (Free Certificate)
 - [ ] [Introduction to Computer Science Programming in Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2019/course/) - OCW or Edx _Ongoing_
 - [ ] [Introduction to Computational Thinking](https://courses.edx.org/courses/course-v1:MITx+6.00.2x+1T2019/course/) - OCW or Edx
 - [ ] [6.01 Introduction to EECS vis Robotics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) - OCW
@@ -39,17 +39,17 @@ This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/a
 - [ ] [6.033 Computer Systems Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/) - OCW
 - [ ] 6.034 Artificial Intelligence 
 - [ ] [6.036 Introduction to Machine learning](https://www.coursera.org/learn/machine-learning) - Coursera 
-- [ ] [6.046 Design and Analysis of Algorithms I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) - Lagunita
-- [ ] [6.046 Design and Analysis of Algorithms II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) - Lagunita
+- [ ] [6.046 Design and Analysis of Algorithms I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) - Lagunita (Free Certificate)
+- [ ] [6.046 Design and Analysis of Algorithms II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) - Lagunita (Free Certificate)
 
 **Optional**
 - [ ] [6.045 Automata, Computability, and Complexity](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) - Lagunita
 
 ## 5. CS-Advanced
-- [x] Deep learning specialization - Coursera (June-2019)
-- [ ] Computer Vision - Stanford
-- [ ] Natural Language Processing - Stanford 
-- [ ] Mining massive data - Lagunita
+- [x] [Deep learning specialization](https://www.coursera.org/specializations/deep-learning?) - Coursera (June-2019)
+- [ ] [Computer Vision](http://cs231n.stanford.edu/) - Stanford
+- [ ] [Natural Language Processing](http://web.stanford.edu/class/cs224n/) - Stanford 
+- [ ] [Mining massive data](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about) - Lagunita (Free Certificate)
 
 ## 6. CS-Tools
 - [ ] [Python - DataCamp](https://www.datacamp.com/home)
@@ -60,7 +60,7 @@ This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/a
 
 ## 7. Economics
 - [ ] [14.01 Principles of Microeconomics](https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/) - OCW
-- [ ] [Principles of Economics](https://lagunita.stanford.edu/courses/course-v1:HumanitiesSciences+Econ1V+Summer2019/course/) - Lagunita - _Ongoing_
+- [ ] [Principles of Economics](https://lagunita.stanford.edu/courses/course-v1:HumanitiesSciences+Econ1V+Summer2019/course/) - Lagunita (Free Certificate) - _Ongoing_
 - [ ] [Econometric Data Science] (https://ocw.mit.edu/courses/economics/14-32-econometrics-spring-2007/) - OCW
 - [ ] Elective Subjects 
 
