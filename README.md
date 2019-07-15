@@ -24,7 +24,7 @@ This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/a
 
 ## 2. CS-Introduction
 - [x] [Computer Science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/course/) - Lagunita (Free Certificate)
-- [ ] [Introduction to Computer Science Programming in Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2019/course/) - OCW or Edx _Ongoing_
+- [x] [Introduction to Computer Science Programming in Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2019/course/) - OCW or Edx
 - [ ] [Introduction to Computational Thinking](https://courses.edx.org/courses/course-v1:MITx+6.00.2x+1T2019/course/) - OCW or Edx
 - [ ] [6.01 Introduction to EECS vis Robotics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) - OCW
 
