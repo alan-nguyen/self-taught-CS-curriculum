@@ -37,8 +37,6 @@ This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/a
 - [ ] [6.009 Fundamentals of Programming](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) - Edx
 - [ ] 6.031 Elements of Software Construction
 - [ ] [6.033 Computer Systems Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/) - OCW
-- [ ] 6.034 Artificial Intelligence 
-- [ ] [6.036 Introduction to Machine learning](https://www.coursera.org/learn/machine-learning) - Coursera 
 - [ ] [6.046 Design and Analysis of Algorithms I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) - Lagunita (Free Certificate)
 - [ ] [6.046 Design and Analysis of Algorithms II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) - Lagunita (Free Certificate)
 
@@ -50,11 +48,12 @@ This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/a
 - [ ] [Computer Vision](http://cs231n.stanford.edu/) - Stanford
 - [ ] [Natural Language Processing](http://web.stanford.edu/class/cs224n/) - Stanford 
 - [ ] [Mining massive data](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about) - Lagunita (Free Certificate)
-
+- [ ] 6.034 Artificial Intelligence 
+- [ ] [6.036 Introduction to Machine learning](https://www.coursera.org/learn/machine-learning) - Coursera 
 ## 6. CS-Tools
-- [ ] [Python - DataCamp](https://www.datacamp.com/home)
-- [ ] [SQL - DataCamp](https://www.datacamp.com/home)
-- [ ] [R - DataCamp](https://www.datacamp.com/home)
+- [x] [Python - DataCamp](https://www.datacamp.com/home)
+- [x] [SQL - DataCamp](https://www.datacamp.com/home)
+- [ ] [R - DataCamp](https://www.datacamp.com/home) - _Ongoing_
 - [ ] [JavaScript - freecodecamp](https://www.freecodecamp.org/)
 - [ ] [Java - Codecademy](https://www.codecademy.com/learn/learn-java)
 
