@@ -59,7 +59,7 @@ This is a self-taught curriculum was built by [Alan Nguyen](https://github.com/a
 
 ## 7. Economics
 - [ ] [14.01 Principles of Microeconomics](https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/) - OCW
-- [x] [Principles of Economics](https://lagunita.stanford.edu/courses/course-v1:HumanitiesSciences+Econ1V+Summer2019/course/) - Lagunita (Free Certificate)
+- [x] [Principles of Economics](https://lagunita.stanford.edu/courses/course-v1:HumanitiesSciences+Econ1V+Summer2019/course/) - Lagunita ([Free Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/a02021d3d9d04fdb8668c072464bd76d/Statement.pdf))
 - [ ] [Econometric Data Science](https://ocw.mit.edu/courses/economics/14-32-econometrics-spring-2007/) - OCW
 - [ ] Elective Subjects 
 
